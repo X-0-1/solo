@@ -1,4 +1,4 @@
-# solo 
+# solo (legacy)
 solo is a light weight and simple version control system (vcs)
 specifically made for solo devs to use on tracking versions of their mini/small projects 
 
@@ -26,3 +26,5 @@ new project creation
 solo -n projectname
 ```
 this will create a the project and produce main inside the project directory.
+
+*Note* this repo hasn't been maintained and is only a POC of how a VCS works this tool can only be used as a mini version control tool and is not recommended for productions.
